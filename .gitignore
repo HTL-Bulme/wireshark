@@ -1,0 +1,10 @@
+**/*~
+
+*.old
+*.out
+*-swp
+
+.directory
+/build/
+
+*.log
